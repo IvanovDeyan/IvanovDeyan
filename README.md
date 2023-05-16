@@ -1,5 +1,7 @@
 ### Hi there 👋
+🔭 I’m currently working in GfK Bulgaria
 
+🌱 I’m currently learning Programming Fundamentals with Python
 <!--
 **IvanovDeyan/IvanovDeyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
